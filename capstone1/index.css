@@ -1,0 +1,41 @@
+/*CSS Reset Rule*/
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.navbar-bg{
+	background-color: #f8f8d9;
+}
+
+.whole-bg{
+	background-color: #f5f5dc;
+}
+
+.nav-me{
+	  font-family: "Sofia", sans-serif;
+	  font-size: 30px;
+	  text-shadow: 3px 3px 3px #ababab;
+}
+
+.body-ff{
+	font-family: 'Open Sans', sans-serif;
+	font-family: 'Roboto', sans-serif;
+}
+
+.form-bg{
+  background-color: #e0e094;
+}
+
+#pre-footer {
+  background-color: #002540;
+  display: block;
+  padding: 3rem 1.5rem 6rem;
+  color: white;
+}
+
+#pre-footer div {
+    display: inline-block;
+    width: 20%;
+}
